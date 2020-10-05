@@ -1,6 +1,6 @@
 Continuous Integration Demo
 ============================
-[![Build Status](https://travis-ci.com/Bouncyyahomie/demo-pyci.svg?branch=master)](https://travis-ci.com/your_acctid/demo-pyci)
+[![Build Status](https://travis-ci.com/Bouncyyahomie/demo-pyci.svg?branch=master)](https://travis-ci.com/Bouncyyahomie/demo-pyci)
 [![codecov](https://codecov.io/gh/Bouncyyahomie/demo-pyci/branch/master/graph/badge.svg?token=GdwC1d3ZNg)](undefined)
 
 This project demonstrates use of Travis CI to build and test a Python project.  
